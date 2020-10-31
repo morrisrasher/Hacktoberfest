@@ -7,7 +7,7 @@ int main()
 {
     int n;
 
-    cout << "Enter a positive integer: ";
+    cout << "Enter a positive integer: "; //here is the displayed line
     cin >> n;
 
     cout << "Factorial of " << n << " = " << factorial(n);
